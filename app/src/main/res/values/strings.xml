@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">prabd_sanilg Budget Tracker</string>
+    <string name="add">ADD</string>
+    <string name="cat_hint">Category</string>
+    <string name="name_hint">Name</string>
+    <string name="cost_hint">Cost</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="cancel">CANCEL</string>
+    <string name="total">Total: $</string>
+    <string name="yes">YES</string>
+    <string name="clear_data">CLEAR DATA</string>
+    <string name="transactions">TRANSACTIONS</string>
+</resources>
